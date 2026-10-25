@@ -1,8 +1,10 @@
-ArkiWay: AI-Assisted Guidance for International Families in Finland
+# ArkiWay: AI-Assisted Guidance for International Families in Finland
 
-Summary
+Building AI course project
 
-ArkiWay is a proposed digital guidance platform designed to help international families in Finland navigate public services. Its initial focus is helping parents understand the daycare application process in Helsinki through clear, accessible English-language guidance based on official information.
+## Summary
+
+ArkiWay is a proposed AI-assisted digital guidance platform that helps international families in Finland navigate daycare applications through accessible explanations and reliable official information.
 
 Background
 
