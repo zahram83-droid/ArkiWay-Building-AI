@@ -6,13 +6,13 @@ Building AI course project
 
 ArkiWay is a proposed AI-assisted digital guidance platform that helps international families in Finland navigate daycare applications through accessible explanations and reliable official information.
 
-Background
+## Background
 
 Moving to a new country often involves navigating unfamiliar public services, administrative procedures, and language barriers. International parents may find it difficult to understand how to apply for early childhood education and care (ECEC), where to find reliable instructions, and which steps apply to their situation.
 
 ArkiWay aims to make this process easier by organizing official information into understandable, practical steps.
 
-How is it used?
+## How is it used?
 
 A parent visits the platform and asks a question such as:
 
@@ -22,7 +22,7 @@ The system identifies relevant information and presents a simple checklist expla
 
 The first prototype would focus on one service, municipal daycare applications in Helsinki, and one language, English.
 
-Data sources and AI methods
+## Data sources and AI methods
 
 The platform would use publicly available information from reliable sources, particularly the City of Helsinki's official early childhood education webpages.
 
@@ -38,19 +38,19 @@ Retrieval-augmented generation (RAG): A possible future approach for producing a
 
 A simple initial prototype could use manually verified guidance before adding AI features.
 
-Challenges
+## Challenges
 
 The main challenges include keeping information up to date, preventing inaccurate AI-generated advice, protecting users' privacy, and making guidance accessible to families with different language backgrounds.
 
 ArkiWay would provide links to official sources, avoid requesting unnecessary personal information, and make clear that the platform does not replace decisions or guidance from public authorities.
 
-What next?
+## What next?
 
 The next step is to interview international parents about difficulties they have experienced when applying for daycare. Their feedback would help shape a simple English-language prototype.
 
 After testing the prototype, the project could explore AI-assisted information retrieval, additional languages, and guidance for other public services.
 
-Acknowledgments
+## Acknowledgments
 
 This proposal builds on the ArkiWay concept developed through Helsinki Incubators' Pathways programme and on concepts introduced in the Building AI course by the University of Helsinki and MinnaLearn.
 
